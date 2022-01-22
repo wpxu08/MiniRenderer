@@ -1,1 +1,1 @@
-# TinyRendererX
+# MiniRenderer
